@@ -1,0 +1,3 @@
+V 0.1.0.0
+- Added game window (1152x864 pixels)
+- Introduced starting code from lwjgl.org/guide

@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.walkingGame</groupId>
   <artifactId>walkingGame</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.0.0</version> <!--Game version.Major.Minor.Patch-->
   
   <properties>
 	<lwjgl.version>3.2.3</lwjgl.version>
