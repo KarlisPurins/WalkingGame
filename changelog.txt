@@ -6,3 +6,7 @@ V 0.1.0.1 - Game Window Patch (1 hour)
 - Changed window size (1920x1080 pixels)
 - Now window is created in different way, but still using LWJGL.
 - https://www.youtube.com/watch?v=_UYxTtJQuuw&ab_channel=GamesWithGabe
+
+V 0.1.1.0 - Mouse and Key Listeners (3 hours)
+- Added Mouse Listener (clicking, dragging, scrolling)
+- Added Key Listener (keyboard button pressed/released)
