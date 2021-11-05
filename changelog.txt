@@ -1,3 +1,5 @@
+Versioning explained V g.x.y.p (g = game version, x = major update, y = minor update, p = patch)
+
 V 0.1.0.0 - Game Window (1 hour)
 - Added game window (1152x864 pixels)
 - Introduced starting code from lwjgl.org/guide
@@ -10,3 +12,9 @@ V 0.1.0.1 - Game Window Patch (1 hour)
 V 0.1.1.0 - Mouse and Key Listeners (3 hours)
 - Added Mouse Listener (clicking, dragging, scrolling)
 - Added Key Listener (keyboard button pressed/released)
+- https://www.youtube.com/watch?v=88oZT7Aum6s&ab_channel=GamesWithGabe
+
+V 0.1.2.0 - Scene Templates (2 hours)
+- Added time detecting/counting for framerate
+- Added Scene templates for Level Editor and Playing Scene
+- https://www.youtube.com/watch?v=gYhEknnKFJY&ab_channel=GamesWithGabe
